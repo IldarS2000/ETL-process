@@ -1,1 +1,1 @@
-10 0 * * * * /home/itde1/MARS/main.py
+10 0 * * * * MARS/main.py
