@@ -1,4 +1,5 @@
 # ETL-process
-data engineering learning project
+
+target scheme of data warehouse
 
 <img src="scheme.png">
