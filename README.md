@@ -1,4 +1,4 @@
 # ETL-process
 data engineering learning project
 
-<img source="scheme.png"><\img>
+<img source="scheme.png">
