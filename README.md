@@ -8,7 +8,7 @@ scheme of data warehouse and staging area (actually tables have additional field
 
 <img src="scheme.png">
 
-### Executing main.py:
-Tables in SCD1 form, update insert and delete pull up from source to staging then to data warehouse after ETL, then system builds required reports (data mart).
+### About system:
+Tables in SCD1 form, update insert and delete pull up from source to staging then to data warehouse after ETL, then system builds required reports (data mart). We can launch system by schedule, by example with help of cron.
 
 
